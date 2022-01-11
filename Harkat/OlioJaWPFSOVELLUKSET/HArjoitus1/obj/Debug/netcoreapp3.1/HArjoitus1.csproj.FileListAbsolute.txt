@@ -1,0 +1,5 @@
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSOVELLUKSET\HArjoitus1\obj\Debug\netcoreapp3.1\HArjoitus1.csproj.AssemblyReference.cache
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSOVELLUKSET\HArjoitus1\obj\Debug\netcoreapp3.1\HArjoitus1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSOVELLUKSET\HArjoitus1\obj\Debug\netcoreapp3.1\HArjoitus1.AssemblyInfoInputs.cache
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSOVELLUKSET\HArjoitus1\obj\Debug\netcoreapp3.1\HArjoitus1.AssemblyInfo.cs
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\Harkat\OlioJaWPFSOVELLUKSET\HArjoitus1\obj\Debug\netcoreapp3.1\HArjoitus1.csproj.CoreCompileInputs.cache

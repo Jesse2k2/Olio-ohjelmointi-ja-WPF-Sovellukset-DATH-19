@@ -1,0 +1,5 @@
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\ajoneuvo\harjoitus\harjoitus\obj\Debug\netcoreapp3.1\harjoitus.csproj.AssemblyReference.cache
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\ajoneuvo\harjoitus\harjoitus\obj\Debug\netcoreapp3.1\harjoitus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\ajoneuvo\harjoitus\harjoitus\obj\Debug\netcoreapp3.1\harjoitus.AssemblyInfoInputs.cache
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\ajoneuvo\harjoitus\harjoitus\obj\Debug\netcoreapp3.1\harjoitus.AssemblyInfo.cs
+C:\Github\Olio-ohjelmointi-ja-WPF-Sovellukset-DATH-19\ajoneuvo\harjoitus\harjoitus\obj\Debug\netcoreapp3.1\harjoitus.csproj.CoreCompileInputs.cache
